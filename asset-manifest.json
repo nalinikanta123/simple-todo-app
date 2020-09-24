@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/simple-todo-app/static/js/main.6e9194be.chunk.js",
+    "main.js.map": "/simple-todo-app/static/js/main.6e9194be.chunk.js.map",
+    "runtime-main.js": "/simple-todo-app/static/js/runtime-main.01792ca7.js",
+    "runtime-main.js.map": "/simple-todo-app/static/js/runtime-main.01792ca7.js.map",
+    "static/js/2.5b7308f3.chunk.js": "/simple-todo-app/static/js/2.5b7308f3.chunk.js",
+    "static/js/2.5b7308f3.chunk.js.map": "/simple-todo-app/static/js/2.5b7308f3.chunk.js.map",
+    "index.html": "/simple-todo-app/index.html",
+    "precache-manifest.722adda8f97ff639b185f670ab4cc583.js": "/simple-todo-app/precache-manifest.722adda8f97ff639b185f670ab4cc583.js",
+    "service-worker.js": "/simple-todo-app/service-worker.js",
+    "static/js/2.5b7308f3.chunk.js.LICENSE.txt": "/simple-todo-app/static/js/2.5b7308f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01792ca7.js",
+    "static/js/2.5b7308f3.chunk.js",
+    "static/js/main.6e9194be.chunk.js"
+  ]
+}
